@@ -16,4 +16,7 @@ public String getColor(){
 public String getType() {
     return " Generic Vehicle";
 }
+
+public static void add(MountainBike mountainBike) {
+}
 }
